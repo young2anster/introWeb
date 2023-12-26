@@ -41,7 +41,7 @@ img {
 
 /* Hero Section */
 header.hero {
-  background: url(../assets/chua1cot.jpg) no-repeat center center fixed;
+  background: url(../assets/final-bg.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -463,7 +463,7 @@ ul.main-nav li {
   display: inline-block;
 }
 ul.main-nav li a {
-  color: #333;
+  color: #fff;
   font-family: 'Montserrat', sans-serif;
   font-size: 14px;
   text-transform: uppercase;
