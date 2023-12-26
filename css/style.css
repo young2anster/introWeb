@@ -389,7 +389,7 @@ nav {
   width: 40px;
   clear: both;
   float: right;
-  color: #fff;
+  background-color: #fff;
 }
 #menu-toggle span.line {
   display: block;
