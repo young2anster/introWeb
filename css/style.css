@@ -110,6 +110,13 @@ ul.social-links li a img {
     width: auto;
 }
 
+.lotus
+{
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 300px;
+}
 /* Case study */
 .case-study .col-md-12 {
   transform: translateY(-80px);
@@ -121,6 +128,15 @@ ul.social-links li a img {
 .case-study .col-md-12 .intro
 {
   padding: 2em 5em;
+}
+
+.intro h3 {
+  
+  font-weight: 500;
+  color: #4e4c58;
+  font-size: 1.6em;
+  margin-bottom: 1em;
+  line-height: 1.6em;
 }
 
 .case-study .col-md-12 h4
